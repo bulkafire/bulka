@@ -572,7 +572,9 @@ footer p {
     .photo {
         width: 55%;
     }
-
+.photo img{
+    width:100%;
+    }
     .inf_bl {
         margin: 0 auto;
     }
